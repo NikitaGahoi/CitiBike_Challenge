@@ -38,9 +38,19 @@ The cleaned dataframe is saved to a CSV file (`clean_citibike_2023_jan-apr-jul(2
 There are two types of users of CitiBike, one who has taken an annual subscription refered as **Memeber** and the other that use the service occasionally and therefore are **Casual** riders. The dashboard represent statistics about the user type. Following conclusions can be drawn from this analysis:
 -  Members constitute the majority of CitiBike users, accounting for approximately 80.45% of all rides, while casual riders contribute to the remaining 19.44%.
 -  Despite notable differences in the average trip duration between members and casual riders, both groups cover an equal average distance of one mile per ride.
--  During winter the number of bike trips are low as compared to Spring and Summer.
+-  Number of bike trips in Summer is the highest followed by spring and winter
 
 ![image](https://github.com/NikitaGahoi/CitiBike_Challenge/assets/136101293/3bc59db6-dbea-4ac0-b464-77b23f65ddf4)
+
+### Peak Hours and Weekday Analysis 
+
+There are two types of users of CitiBike, one who has taken an annual subscription refered as **Memeber** and the other that use the service occasionally and therefore are **Casual** riders. The dashboard represent statistics about the user type. Following conclusions can be drawn from this analysis:
+-  Members constitute the majority of CitiBike users, accounting for approximately 80.45% of all rides, while casual riders contribute to the remaining 19.44%.
+-  Despite notable differences in the average trip duration between members and casual riders, both groups cover an equal average distance of one mile per ride.
+-  Number of bike trips in Summer is the highest followed by spring and winter
+
+![image](https://github.com/NikitaGahoi/CitiBike_Challenge/assets/136101293/a1e34b97-f3bb-4cc0-b356-7b87b1bdacc2)
+
 
 
 
