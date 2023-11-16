@@ -7,6 +7,7 @@ This project involves the cleaning and analysis of New York Citibike trip data. 
 ## File Description
 
 - **[data_cleaning_analysis.py:](https://github.com/NikitaGahoi/CitiBike_Challenge/blob/main/CitiBike_data_preprocessing.ipynb)** Python script for data cleaning and analysis.
+- **[Tableau Analysis:](https://public.tableau.com/views/Citibike_2_16989636340030/DayHourAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)** Cleaned data file was uploaded into Tableau for a detailed analysis of New York's CitiBike data. This file can be accessed by clicking at the [link](https://public.tableau.com/views/Citibike_2_16989636340030/DayHourAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Data Preprocessing steps:
 
