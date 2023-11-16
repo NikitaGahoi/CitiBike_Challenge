@@ -18,7 +18,7 @@ This project involves the cleaning and analysis of New York Citibike trip data. 
 - Columns 'started_at' and 'ended_at' are converted to datetime format.
 - Trip durations are calculated in minutes and days.
 - Rows with time differences less than or equal to 60 seconds are removed, as they might just be a false trip (as stated at the New York Citibike database)
-- Unnecessary columns are dropped.
+- Unnecessary columns are dropped
 4. **Outlier Identification:**
 - Quartiles and inter-quartile range (IQR) are calculated.
 - Outliers are identified based on the calculated bounds.
