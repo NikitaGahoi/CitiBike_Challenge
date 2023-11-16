@@ -25,6 +25,6 @@ This project involves the cleaning and analysis of New York Citibike trip data. 
 5. **Additional Analysis:**
 - Month and season columns are created for further analysis.
 6. **Save Cleaned Dataset:**
-- The cleaned dataframe is saved to a CSV file (`clean_citibike_2023_jan-apr-jul(2).csv`).
+- The cleaned dataframe is saved to a CSV file (`clean_citibike_2023_jan-apr-jul(2).csv`). This cleaned dataset was then used for analysis in Tableau
 
 
