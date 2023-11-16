@@ -60,6 +60,13 @@ New York CitiBike recorded a substantial 8.1 million bike trips within a three-m
 
 ![image](https://github.com/NikitaGahoi/CitiBike_Challenge/assets/136101293/6cc08247-4750-43cf-be67-839e3f972a93)
 
+### Geographical Location of the Start and End Stations
+All the start and end stations were mapped, to visualize the map locations and their popularity.
+
+![image](https://github.com/NikitaGahoi/CitiBike_Challenge/assets/136101293/db96b79e-86e6-4828-a873-d7b4016719e2)
+
+
+
 
 
 
