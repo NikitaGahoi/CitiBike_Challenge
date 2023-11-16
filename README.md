@@ -10,9 +10,11 @@ This project involves the cleaning and analysis of New York Citibike trip data. 
 
 ## Data Preprocessing steps:
 
-1. **Install Dependencies:**  Ensure that you have the necessary dependencies installed
-2.  **Combining Data:**  Concatenating CSV files from Jan 2023(Winter), April 2023(Spring) and July 23 (Summer) (`202301.csv`, `202304.csv`, `202307.csv`) from New York Citibike database into one dataframe.
-3. **Data Cleaning:**
+1. **Install Dependencies:**
+   - Ensure that you have the necessary dependencies installed
+3.  **Combining Data:**
+   -  Concatenating CSV files from Jan 2023(Winter), April 2023(Spring) and July 23 (Summer) (`202301.csv`, `202304.csv`, `202307.csv`) from New York Citibike database into one dataframe.
+5. **Data Cleaning:**
 - Columns 'started_at' and 'ended_at' are converted to datetime format.
 - Trip durations are calculated in minutes and days.
 - Rows with time differences less than or equal to 60 seconds are removed, as they might just be a false trip (as stated at the New York Citibike database)
