@@ -35,7 +35,7 @@ The cleaned dataframe is saved to a CSV file (`clean_citibike_2023_jan-apr-jul(2
 
 ### User Analysis  
 
-There are two types of users of CitiBike, one who has taken an annual subscription refered as **Memeber** and the other that use the service occasionally and therefore are **Casual** riders. The dashboard represent statistics about the user type. Following conclusions can be drawn from this analysis:
+CitiBike users fall into two categories: **Members**, who have an annual subscription, and **Casual riders**, who use the service intermittently. The dashboard presents statistics specific to each user type. The following conclusions arise from this analysis:
 -  Members constitute the majority of CitiBike users, accounting for approximately 80.45% of all rides, while casual riders contribute to the remaining 19.44%.
 -  Despite notable differences in the average trip duration between members and casual riders, both groups cover an equal average distance of one mile per ride.
 -  Number of bike trips in Summer is the highest followed by spring and winter
@@ -44,12 +44,22 @@ There are two types of users of CitiBike, one who has taken an annual subscripti
 
 ### Peak Hours and Weekday Analysis 
 
-This analysis was performed to understand the usage of CitiBikes by hours,weekdays and memeber type. Following conclusions can be drawn from this analysis:
+This analysis was conducted to gain insights into the utilization patterns of CitiBikes, specifically focusing on variations across hours, weekdays, and member types. The following conclusions emerge from this in-depth examination:
 -  Weekdays see peak CitiBike usage at 8 am and 5 pm, primarily by members. The average trip duration at these hours is approximately 11.5 minutes. This pattern holds throughout the week, indicating members rely on CitiBike for their daily office commute.
 -  Members favor weekdays, while weekends are preferred by casual riders. This underscores the recurring observation that members predominantly rely on CitiBike for their daily work commute.
 -  Members favor commuting at 8 am and 5 pm, aligning with standard work hours, while casual riders prefer the timeframe from noon to 7 pm,  indicating a more flexible usage pattern during the later part of the day.
+-  **Saturday** is the most popular day for the bike ride, for both memebers as well as casual users
 
 ![image](https://github.com/NikitaGahoi/CitiBike_Challenge/assets/136101293/a1e34b97-f3bb-4cc0-b356-7b87b1bdacc2)
+
+### CitiBike Station Analysis
+
+New York CitiBike recorded a substantial 8.1 million bike trips within a three-month period (Jan 2023, Apr 2023, and Jul 2023), encompassing a network of 1,962 start stations and 1,980 end stations. This analysis aims to identify the most popular start and end stations and gain insights into their geographical distribution in New York. The following conclusions can be drawn from this comprehensive analysis:
+-  **W 21 St. and 6 Ave** is the most popular Start and End Stations followed by **Broadway & W 58 St**
+-  Top 10 start station and End Station ar e apart of Midtown and Lower Manhattan Neighbourhood
+
+![image](https://github.com/NikitaGahoi/CitiBike_Challenge/assets/136101293/6cc08247-4750-43cf-be67-839e3f972a93)
+
 
 
 
