@@ -27,4 +27,20 @@ This project involves the cleaning and analysis of New York Citibike trip data. 
 6. **Save Cleaned Dataset:**
 - The cleaned dataframe is saved to a CSV file (`clean_citibike_2023_jan-apr-jul(2).csv`). This cleaned dataset was then used for analysis in Tableau
 
+## Tableau Analysis
+The cleaned dataframe is saved to a CSV file (`clean_citibike_2023_jan-apr-jul(2).csv`) was imported into tableau, and a few calculations were performed:
+-  **Time_Duration in minutes** was calculated by substracting the end time with the start time of the trip
+-  **Distance in Miles** was calculated by first calculting the origin and destination points using `MAKEPOINT` function in Tableau and then Distance between origin and destination points was claculated using the `DISTANCE` function in Tableau.
+
+ ![image](https://github.com/NikitaGahoi/CitiBike_Challenge/assets/136101293/6757f1c0-ab99-4a60-a475-545238d21294)
+ ![image](https://github.com/NikitaGahoi/CitiBike_Challenge/assets/136101293/889103cc-3b64-43ff-99d3-b63e98f85f66)
+
+-  After performing these calculations, 
+
+
+
+
+
+
+
 
