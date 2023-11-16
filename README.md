@@ -6,7 +6,7 @@ This project involves the cleaning and analysis of New York Citibike trip data. 
 
 ## File Description
 
-- **data_cleaning_analysis.py:** Python script for data cleaning and analysis.
+- **[data_cleaning_analysis.py:](https://github.com/NikitaGahoi/CitiBike_Challenge/blob/main/CitiBike_data_preprocessing.ipynb)** Python script for data cleaning and analysis.
 
 ## Data Preprocessing steps:
 
