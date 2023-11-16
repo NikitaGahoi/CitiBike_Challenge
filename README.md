@@ -46,10 +46,10 @@ CitiBike users fall into two categories: **Members**, who have an annual subscri
 ### Peak Hours and Weekday Analysis 
 
 This analysis was conducted to gain insights into the utilization patterns of CitiBikes, specifically focusing on variations across hours, weekdays, and member types. The following conclusions emerge from this in-depth examination:
--  Weekdays see peak CitiBike usage at 8 am and 5 pm, primarily by members. The average trip duration at these hours is approximately 11.5 minutes. This pattern holds throughout the week, indicating members rely on CitiBike for their daily office commute.
+-  Weekdays see peak CitiBike usage at 8 am and 5 pm, primarily by members. The average trip duration at these hours is approximately 11.5 minutes. This pattern holds throughout the week (Mon-Fri), indicating members rely on CitiBike for their daily office commute.
 -  Members favor weekdays, while weekends are preferred by casual riders. This underscores the recurring observation that members predominantly rely on CitiBike for their daily work commute.
 -  Members favor commuting at 8 am and 5 pm, aligning with standard work hours, while casual riders prefer the timeframe from noon to 7 pm,  indicating a more flexible usage pattern during the later part of the day.
--  **Saturday** is the most popular day for the bike ride, for both memebers as well as casual users
+-  Casual Riders prefer **Saturday** for the bike ride , whereas among memeber maximum number is bike usage is on **Monday**
 
 ![image](https://github.com/NikitaGahoi/CitiBike_Challenge/assets/136101293/a1e34b97-f3bb-4cc0-b356-7b87b1bdacc2)
 
