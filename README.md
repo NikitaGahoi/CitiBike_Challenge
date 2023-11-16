@@ -44,10 +44,10 @@ There are two types of users of CitiBike, one who has taken an annual subscripti
 
 ### Peak Hours and Weekday Analysis 
 
-There are two types of users of CitiBike, one who has taken an annual subscription refered as **Memeber** and the other that use the service occasionally and therefore are **Casual** riders. The dashboard represent statistics about the user type. Following conclusions can be drawn from this analysis:
--  Members constitute the majority of CitiBike users, accounting for approximately 80.45% of all rides, while casual riders contribute to the remaining 19.44%.
--  Despite notable differences in the average trip duration between members and casual riders, both groups cover an equal average distance of one mile per ride.
--  Number of bike trips in Summer is the highest followed by spring and winter
+This analysis was performed to understand the usage of CitiBikes by hours,weekdays and memeber type. Following conclusions can be drawn from this analysis:
+-  Weekdays see peak CitiBike usage at 8 am and 5 pm, primarily by members. The average trip duration at these hours is approximately 11.5 minutes. This pattern holds throughout the week, indicating members rely on CitiBike for their daily office commute.
+-  Members favor weekdays, while weekends are preferred by casual riders. This underscores the recurring observation that members predominantly rely on CitiBike for their daily work commute.
+-  Members favor commuting at 8 am and 5 pm, aligning with standard work hours, while casual riders prefer the timeframe from noon to 7 pm,  indicating a more flexible usage pattern during the later part of the day.
 
 ![image](https://github.com/NikitaGahoi/CitiBike_Challenge/assets/136101293/a1e34b97-f3bb-4cc0-b356-7b87b1bdacc2)
 
